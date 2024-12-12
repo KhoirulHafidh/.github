@@ -23,7 +23,7 @@ To empower individuals worldwide to achieve their health goals through accessibl
 
 ## 📱 Download Now  
 <p align="center">
-  <a href="https://drive.google.com/file/d/1LQIbH_2R97gF9RHcn1iZ_wrqLKiZJ6nn/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1t0RRHGEHjN99p65dF0yr5H9Ptj6L3GSy/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download-Android-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
   </a>
 </p>
